@@ -1,8 +1,8 @@
 {
   "symbol": "MSFT",
   "price": 517.53,
-  "asof": "Closed at Oct 2, 2026 4:00 PM ET",
-  "session": "LATEST REGULAR CLOSE",
+  "asof": "Oct 2, 2026",
+  "session": "PUBLIC MARKET PRICE",
   "source": "Nasdaq public quote",
-  "updated_at_utc": "2026-10-02T23:11:20.174911+00:00"
+  "updated_at_utc": "2026-10-03T02:14:47.669175+00:00"
 }
