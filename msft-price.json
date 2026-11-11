@@ -1,8 +1,8 @@
 {
   "symbol": "MSFT",
-  "price": 520.993,
-  "asof": "2026-11-11T17:22:59+00:00",
-  "session": "LATEST REGULAR PUBLIC PRICE",
-  "source": "Yahoo Finance public quote",
-  "updated_at_utc": "2026-11-11T17:23:00.481610+00:00"
+  "price": 521.125,
+  "asof": "Closed at Nov 11, 2026 4:00 PM ET",
+  "session": "LATEST REGULAR CLOSE",
+  "source": "Nasdaq public quote",
+  "updated_at_utc": "2026-11-11T23:37:48.555090+00:00"
 }
